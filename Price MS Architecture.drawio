@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6">
   <diagram name="Page-1" id="pzf2gnPvphk5-AIPB_D_">
-    <mxGraphModel dx="1860" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2286" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mXsQpWE-HHdo5HLymEHP-6" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="160" y="315" width="190" height="110" as="geometry" />
+          <mxGeometry x="220" y="315" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mXsQpWE-HHdo5HLymEHP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="mXsQpWE-HHdo5HLymEHP-6" vertex="1">
           <mxGeometry width="160" height="80" as="geometry" />
@@ -54,25 +54,25 @@
         <mxCell id="mXsQpWE-HHdo5HLymEHP-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mXsQpWE-HHdo5HLymEHP-15" target="mXsQpWE-HHdo5HLymEHP-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mXsQpWE-HHdo5HLymEHP-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mXsQpWE-HHdo5HLymEHP-15" target="mXsQpWE-HHdo5HLymEHP-22" edge="1">
+        <mxCell id="mXsQpWE-HHdo5HLymEHP-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mXsQpWE-HHdo5HLymEHP-15" target="mXsQpWE-HHdo5HLymEHP-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mXsQpWE-HHdo5HLymEHP-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mXsQpWE-HHdo5HLymEHP-15" target="mXsQpWE-HHdo5HLymEHP-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-750" y="384" as="targetPoint" />
+            <mxPoint x="-750" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mXsQpWE-HHdo5HLymEHP-15" value="CORE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-410" y="344" width="120" height="80" as="geometry" />
+          <mxGeometry x="-410" y="345" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mXsQpWE-HHdo5HLymEHP-17" value="Web" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="164" width="120" height="80" as="geometry" />
+          <mxGeometry x="-640" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mXsQpWE-HHdo5HLymEHP-20" value="App" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="344" width="120" height="80" as="geometry" />
+          <mxGeometry x="-640" y="345" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mXsQpWE-HHdo5HLymEHP-22" value="Hub" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="494" width="120" height="80" as="geometry" />
+          <mxGeometry x="-640" y="495" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mXsQpWE-HHdo5HLymEHP-25" value="Mongo" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="667" width="60" height="60" as="geometry" />
@@ -87,7 +87,7 @@
           <mxGeometry x="-30" y="472" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CQ-USjVRfcg0fbFKOLIM-3" value="External Pricing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="354" width="100" height="30" as="geometry" />
+          <mxGeometry x="110" y="355" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mXsQpWE-HHdo5HLymEHP-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="mXsQpWE-HHdo5HLymEHP-10" target="mXsQpWE-HHdo5HLymEHP-25" edge="1">
           <mxGeometry relative="1" as="geometry">
