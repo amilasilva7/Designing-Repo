@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6">
   <diagram name="Page-1" id="pzf2gnPvphk5-AIPB_D_">
-    <mxGraphModel dx="2286" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,11 +34,11 @@
         <mxCell id="mXsQpWE-HHdo5HLymEHP-10" value="Process Pricing &lt;br&gt;(internal/ external)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-144" y="330" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mXsQpWE-HHdo5HLymEHP-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="CQ-USjVRfcg0fbFKOLIM-1" target="mXsQpWE-HHdo5HLymEHP-26" edge="1">
+        <mxCell id="mXsQpWE-HHdo5HLymEHP-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="mXsQpWE-HHdo5HLymEHP-7" target="mXsQpWE-HHdo5HLymEHP-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-50" y="620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-270" y="562" />
+              <mxPoint x="-270" y="543" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -102,7 +102,7 @@
           <mxGeometry x="50" y="525" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CQ-USjVRfcg0fbFKOLIM-5" value="Formulas/ Configs/ products details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="531" width="120" height="30" as="geometry" />
+          <mxGeometry x="-300" y="510" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
