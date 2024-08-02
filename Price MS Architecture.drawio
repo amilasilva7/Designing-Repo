@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6">
   <diagram name="Page-1" id="pzf2gnPvphk5-AIPB_D_">
-    <mxGraphModel dx="2286" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1759" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CQ-USjVRfcg0fbFKOLIM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="CQ-USjVRfcg0fbFKOLIM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-160" y="472" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mXsQpWE-HHdo5HLymEHP-11" value="Calculate prices internaly" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -83,10 +83,10 @@
         <mxCell id="mXsQpWE-HHdo5HLymEHP-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mXsQpWE-HHdo5HLymEHP-10" target="mXsQpWE-HHdo5HLymEHP-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CQ-USjVRfcg0fbFKOLIM-2" value="Internal Pricing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CQ-USjVRfcg0fbFKOLIM-2" value="Internal Pricing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-30" y="472" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CQ-USjVRfcg0fbFKOLIM-3" value="External Pricing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CQ-USjVRfcg0fbFKOLIM-3" value="External Pricing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="355" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mXsQpWE-HHdo5HLymEHP-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="mXsQpWE-HHdo5HLymEHP-10" target="mXsQpWE-HHdo5HLymEHP-25" edge="1">
@@ -98,11 +98,38 @@
             <mxPoint x="50" y="413" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CQ-USjVRfcg0fbFKOLIM-4" value="Requests/ Responses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="CQ-USjVRfcg0fbFKOLIM-4" value="Requests/ Responses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="50" y="525" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CQ-USjVRfcg0fbFKOLIM-5" value="Formulas/ Configs/ products details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="CQ-USjVRfcg0fbFKOLIM-5" value="Formulas/ Configs/ products details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-300" y="510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1XxNNsUzg80OugTG9F-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1XxNNsUzg80OugTG9F-1" target="ux1XxNNsUzg80OugTG9F-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1XxNNsUzg80OugTG9F-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1XxNNsUzg80OugTG9F-1" target="ux1XxNNsUzg80OugTG9F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1XxNNsUzg80OugTG9F-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1XxNNsUzg80OugTG9F-1" target="ux1XxNNsUzg80OugTG9F-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1XxNNsUzg80OugTG9F-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1XxNNsUzg80OugTG9F-1" target="ux1XxNNsUzg80OugTG9F-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1XxNNsUzg80OugTG9F-1" value="ADJUSTMENTS/ Discounts?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1XxNNsUzg80OugTG9F-2" value="Create Discounts for a period" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1XxNNsUzg80OugTG9F-4" value="&lt;div&gt;ADJUSTMENTS types&lt;/div&gt;&lt;div&gt;(different logic)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1XxNNsUzg80OugTG9F-7" value="Restrict adjustments for domains/channels/properties" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1XxNNsUzg80OugTG9F-9" value="ADJUSTMENTS/ Discounts?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-230" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
