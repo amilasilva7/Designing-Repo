@@ -1,9 +1,93 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6">
   <diagram name="Page-1" id="n-_b7IDQCmOVz2R5OA7C">
-    <mxGraphModel>
+    <mxGraphModel dx="1436" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.996;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.196;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KcHmdI_qGqbLPeBUauTH-1" target="KcHmdI_qGqbLPeBUauTH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-7" value="Register [POST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KcHmdI_qGqbLPeBUauTH-3">
+          <mxGeometry x="0.285" y="1" relative="1" as="geometry">
+            <mxPoint x="-57" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="210" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-30" width="370" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-4" value="Price" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-6" value="CORE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.22;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.997;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KcHmdI_qGqbLPeBUauTH-2" target="KcHmdI_qGqbLPeBUauTH-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="260" as="sourcePoint" />
+            <mxPoint x="260" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-9" value="Receive token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KcHmdI_qGqbLPeBUauTH-8">
+          <mxGeometry x="0.285" y="1" relative="1" as="geometry">
+            <mxPoint x="57" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-10" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.002;exitY=0.214;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250.42000000000007" y="129.31999999999994" as="sourcePoint" />
+            <mxPoint x="650" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-13" value="Create Price Metrix by token [POST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KcHmdI_qGqbLPeBUauTH-12">
+          <mxGeometry x="0.285" y="1" relative="1" as="geometry">
+            <mxPoint x="-57" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.22;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.997;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="651" y="146.7" as="sourcePoint" />
+            <mxPoint x="250" y="146.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-15" value="Receive&amp;nbsp;PriceMetrixReference/ PriceMetrix" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KcHmdI_qGqbLPeBUauTH-14">
+          <mxGeometry x="0.285" y="1" relative="1" as="geometry">
+            <mxPoint x="57" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.002;exitY=0.214;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255.5" y="197" as="sourcePoint" />
+            <mxPoint x="655.5" y="198" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-20" value="Get Price Metrix by&amp;nbsp;PriceMetrixReference [GET]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KcHmdI_qGqbLPeBUauTH-19">
+          <mxGeometry x="0.285" y="1" relative="1" as="geometry">
+            <mxPoint x="-57" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.22;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.997;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655.5" y="217" as="sourcePoint" />
+            <mxPoint x="254.5" y="217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-22" value="Receive PriceMetrix" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KcHmdI_qGqbLPeBUauTH-21">
+          <mxGeometry x="0.285" y="1" relative="1" as="geometry">
+            <mxPoint x="57" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-23" value="2-2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="590" y="187" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KcHmdI_qGqbLPeBUauTH-11" value="2-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="570" y="121" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
